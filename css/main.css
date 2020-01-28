@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  color: #656565; }
+
+body {
+  padding: 40px 60px;
+  font-size: 14px;
+  line-height: 17px; }
+
+#headline {
+  padding: 15px 0; }
+  #headline img {
+    width: 220px; }
+
+#top_image img, #bottom_image img {
+  width: 100%; }
+
+#text_content {
+  margin: 40px 0; }
+
+#bottom_links ul {
+  display: flex;
+  justify-content: center;
+  list-style: none; }
+#bottom_links li {
+  width: 25%;
+  border: 3px solid #656565;
+  margin: 0 2px; }
+  #bottom_links li img {
+    width: 100%; }
+
+/*# sourceMappingURL=main.css.map */
